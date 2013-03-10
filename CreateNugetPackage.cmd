@@ -1,0 +1,1 @@
+build\nuget pack build\NuGet\DataAnnotationsExtensions.MVC3\DataAnnotationsExtensions.nuspec
